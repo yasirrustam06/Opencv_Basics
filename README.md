@@ -20,3 +20,7 @@ RA![trackbar](https://user-images.githubusercontent.com/98689629/190868135-6fe52
 
 # `TrackBar OUTPUT `
 ![trackbar](https://user-images.githubusercontent.com/98689629/190868135-6fe528ca-86ff-46a0-a34a-62f8f239bd04.PNG)
+
+
+
+![images (2)](https://user-images.githubusercontent.com/98689629/191598372-cb139eae-d1a0-4a69-a9d1-97555cf6a978.jpg)
